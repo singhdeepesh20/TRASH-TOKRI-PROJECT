@@ -5,7 +5,7 @@
 ## *1. Introduction*
 This report provides an in-depth analysis of scrap collection trends, revenue generation, and customer engagement using Power BI. The goal is to help stakeholders optimize operations and maximize revenue.
 
-![TRASH-TOKRI-PROJECT](https://github.com/singhdeepesh20/ZOMATO-DASHBOARD/blob/main/ZOMATO%20PIC.png)
+![TRASH-TOKRI-PROJECT](https://github.com/singhdeepesh20/TRASH-TOKRI-PROJECT/blob/main/TRASH%20TOKRI.png)
 
 
 ## *2. Data Sources*
