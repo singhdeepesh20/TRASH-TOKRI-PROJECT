@@ -93,4 +93,8 @@ To enhance interactivity, the following slicers were added:
 ## *8. Conclusion*
 This Power BI dashboard provides a real-time, data-driven approach to analyzing scrap collection and revenue. By leveraging these insights, businesses can enhance efficiency, improve customer engagement, and maximize profitability.
 
+---
+https://github.com/singhdeepesh20/TRASH-TOKRI-PROJECT
+
+
 
